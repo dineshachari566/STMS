@@ -47,8 +47,7 @@ session_start();
                     <div class="form-group">
                       <div class="custom-control custom-checkbox small" style="line-height: 1.5rem;">
                         <input type="checkbox" class="custom-control-input" id="customCheck">
-                        <!-- <label class="custom-control-label" for="customCheck">Remember
-                          Me</label> -->
+                        
                       </div>
                     </div>
                     <div class="form-group">
@@ -94,14 +93,7 @@ session_start();
   }
 ?>
 
-                    <!-- <hr>
-                    <a href="index.html" class="btn btn-google btn-block">
-                      <i class="fab fa-google fa-fw"></i> Login with Google
-                    </a>
-                    <a href="index.html" class="btn btn-facebook btn-block">
-                      <i class="fab fa-facebook-f fa-fw"></i> Login with Facebook
-                    </a> -->
-                  <hr>
+                 
                   <div class="text-center">
                     <a class="font-weight-bold small" href="classTeacherLogin.php">Class Teacher Login!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <!-- <a class="font-weight-bold small" href=".php">Cooperative Account!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
